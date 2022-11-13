@@ -18,6 +18,9 @@
             "libraries": [
               "-framework", "AppKit"
             ]
+          },
+          "xcode_settings": {
+            "CLANG_CXX_LANGUAGE_STANDARD": "c++17"
           }
         }],  # OS=="mac"
         ['OS=="win"', {
