@@ -20,7 +20,8 @@
             ]
           },
           "xcode_settings": {
-            "CLANG_CXX_LANGUAGE_STANDARD": "c++17"
+            "CLANG_CXX_LANGUAGE_STANDARD": "c++17",
+            "CLANG_CXX_LIBRARY": "libc++"
           }
         }],  # OS=="mac"
         ['OS=="win"', {
